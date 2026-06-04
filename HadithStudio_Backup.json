@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "exportedAt": "2026-05-30T19:24:49.000Z",
+  "trackerRows": [
+    {
+      "id": 1779578723730,
+      "primaryRef": "Bukhari 6314",
+      "duplicateRefs": "Abu Dawood 5049, Tirmidhi 3417",
+      "usedPart": "Sleeping on right hand under cheek, bedtime supplication",
+      "partialUse": false,
+      "simplified": false,
+      "category": "🌅 தூக்கம் & வைஹர்",
+      "format": "standard",
+      "ruleChange": false,
+      "date": "24/05/2026"
+    },
+    {
+      "id": 2,
+      "primaryRef": "Bukhari 6018",
+      "duplicateRefs": "Muslim 47, Abu Dawood 5154, Tirmidhi 2500",
+      "usedPart": "Good Speech Only",
+      "partialUse": false,
+      "simplified": false,
+      "category": "",
+      "format": "standard",
+      "ruleChange": false,
+      "date": "28/04/2026"
+    },
+    {
+      "id": 3,
+      "primaryRef": "Bukhari 13",
+      "duplicateRefs": "Muslim 45",
+      "usedPart": "Love for Brother",
+      "partialUse": false,
+      "simplified": false,
+      "category": "",
+      "format": "standard",
+      "ruleChange": false,
+      "date": "28/04/2026"
+    },
+    {
+      "id": 4,
+      "primaryRef": "Bukhari 85",
+      "duplicateRefs": "Muslim 157",
+      "usedPart": "Harj Increase",
+      "partialUse": false,
+      "simplified": false,
+      "category": "",
+      "format": "standard",
+      "ruleChange": false,
+      "date": "28/04/2026"
+    }
+  ],
+  "duaRows": [
+    {
+      "id": 1779578723732,
+      "arabicKey": "اللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَ",
+      "source": "அபூ தாவூத் 5045 — நபி ﷺ தமது வலது கையை கன்னத்தின் கீழே வைத்து படுக்கும்போது இந்த துஆவை மூன்று முறை ஓதினார்கள்.",
+      "theme": "Sleeping on right hand under cheek, bedtime supplication",
+      "date": "24/05/2026"
+    }
+  ],
+  "hookQuizRows": [
+    {
+      "id": 1748215800000,
+      "topic": "இஸ்ரா மிஃராஜ்",
+      "question": "இஸ்ரா மிஃராஜ் பயணத்தில் நபி ﷺ மூசா (அலை) அவர்களை எந்த வானத்தில் சந்தித்தார்கள்?",
+      "optionA": "முதல் வானம்",
+      "optionB": "7 வது வானம்",
+      "correctOption": "B",
+      "source": "Sahih al-Bukhari 7517",
+      "date": "25/05/2026"
+    }
+  ],
+  "pickHistory": [],
+  "lastResult": null,
+  "thumbnailData": null
+}
