@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "exportedAt": "2026-05-30T19:24:49.000Z",
+  "exportedAt": "2026-06-05T13:31:01.988Z",
   "trackerRows": [
+    {
+      "id": 1780621930936,
+      "primaryRef": "Bukhari 1240",
+      "duplicateRefs": "Muslim 2162, Tirmidhi 2737",
+      "usedPart": "Five rights of a Muslim — visiting the sick listed as one",
+      "partialUse": true,
+      "simplified": false,
+      "category": "🩺 சிஹத்",
+      "format": "hook_quiz",
+      "ruleChange": false,
+      "date": "05/06/2026"
+    },
     {
       "id": 1779578723730,
       "primaryRef": "Bukhari 6314",
@@ -35,6 +47,110 @@
       "simplified": false,
       "category": "",
       "format": "standard",
+      "ruleChange": false,
+      "date": "28/04/2026"
+    },
+    {
+      "id": 4,
+      "primaryRef": "Bukhari 85",
+      "duplicateRefs": "Muslim 157",
+      "usedPart": "Harj Increase",
+      "partialUse": false,
+      "simplified": false,
+      "category": "",
+      "format": "standard",
+      "ruleChange": false,
+      "date": "28/04/2026"
+    }
+  ],
+  "duaRows": [
+    {
+      "id": 1780621930939,
+      "arabicKey": "أَسْأَلُ اللَّهَ الْعَظِيمَ رَبَّ الْعَر",
+      "source": "அபூ தாவூத் 3106, திர்மிதி 2083 — இப்னு அப்பாஸ் (ரலி) அறிவிப்பு",
+      "theme": "Five rights of a Muslim — visiting the sick listed as one",
+      "date": "05/06/2026"
+    },
+    {
+      "id": 1779578723732,
+      "arabicKey": "اللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَ",
+      "source": "அபூ தாவூத் 5045 — நபி ﷺ தமது வலது கையை கன்னத்தின் கீழே வைத்து படுக்கும்போது இந்த துஆவை மூன்று முறை ஓதினார்கள்.",
+      "theme": "Sleeping on right hand under cheek, bedtime supplication",
+      "date": "24/05/2026"
+    }
+  ],
+  "hookQuizRows": [
+    {
+      "id": 1780621930940,
+      "topic": "பொது",
+      "question": "ஒரு முஸ்லிம் தன் சகோதரனை சந்திக்கும்போது கைகுலுக்கினால், பாவங்கள் மன்னிக்கப்படும் — எப்போது வரை...",
+      "date": "05/06/2026"
+    },
+    {
+      "id": 1748215800000,
+      "topic": "இஸ்ரா மிஃராஜ்",
+      "question": "இஸ்ரா மிஃராஜ் பயணத்தில் நபி ﷺ மூசா (அலை) அவர்களை எந்த வானத்தில் சந்தித்தார்கள்?",
+      "optionA": "முதல் வானம்",
+      "optionB": "7 வது வானம்",
+      "correctOption": "B",
+      "source": "Sahih al-Bukhari 7517",
+      "date": "25/05/2026"
+    }
+  ],
+  "pickHistory": [
+    {
+      "topic": "நோய்வாய்ப்பட்டவரை சந்திப்பதன் புண்ணியம் — நோயாளியை பார்க்கச் செல்வது ஒரு முஸ்லிமின் உரிமை",
+      "category": "🩺 சிஹத்",
+      "format": "hook_quiz",
+      "date": "05/06/2026"
+    }
+  ],
+  "lastResult": {
+    "hadith_tamil": "நபி (ﷺ) அவர்கள் கூறினார்கள்: \"ஒரு முஸ்லிமுக்கு மற்றொரு முஸ்லிமின் மீது ஐந்து கடமைகள் உள்ளன: சலாம் கூறும்போது பதில் சொல்வது, நோயாளியை நலம் விசாரிப்பது, ஜனாஸாவை (இறந்தவரின் உடலை) பின்தொடர்வது, அழைப்பை ஏற்பது, தும்மியவருக்கு யர்ஹமுகல்லாஹ் என்று கூறுவது.\"\n\nஅறிவிப்பாளர்: அபூ ஹுரைரா (ரலி)",
+    "primary_ref": "சஹீஹ் புகாரி : 1240",
+    "primary_ref_en": "Bukhari 1240",
+    "duplicate_refs": "முஸ்லிம் : 2162, திர்மிதி : 2737",
+    "duplicate_refs_en": "Muslim 2162, Tirmidhi 2737",
+    "used_part": "Five rights of a Muslim — visiting the sick listed as one",
+    "partial_use": true,
+    "simplified": false,
+    "hook_quiz_text": "🎯 இஸ்லாமிய சேலஞ்ச்\n\nஒரு முஸ்லிம் தன் சகோதரனை சந்திக்கும்போது கைகுலுக்கினால், பாவங்கள் மன்னிக்கப்படும் — எப்போது வரை...\n\nA) பிரிந்து செல்லும் வரை\nB) வீட்டிற்கு திரும்பும் வரை\n\n💬 உங்கள் பதிலை கமெண்டில் சொல்லுங்கள்!",
+    "hook_correct_option": "A",
+    "hook_quiz_source": "சஹீஹ் திர்மிதி : 2727",
+    "hook_quiz_source_en": "Tirmidhi 2727",
+    "quiz_text": "🔍 இஸ்லாமிய வினாடி வினா\n\nஒரு முஸ்லிமுக்கு மற்றொரு முஸ்லிமின் மீது உள்ள கடமைகளில் நோயாளியை நலம் விசாரிப்பது எந்த வகையான கடமை?\n\nA) நல்ல பண்பாகக் கருதப்படும் விரும்பத்தக்க செயல் (முஸ்தஹப்)\nB) கட்டாயமான உரிமை (ஹக்கு)",
+    "correct_option": "B",
+    "dua_text": "[𝗗𝗨ʿ𝗔]\n════════════════════\n𝗔𝗿𝗮𝗯𝗶𝗰: أَسْأَلُ اللَّهَ الْعَظِيمَ رَبَّ الْعَرْشِ الْعَظِيمِ أَنْ يَشْفِيَكَ\n𝗧𝗮𝗺𝗶𝗹 𝗠𝗲𝗮𝗻𝗶𝗻𝗴: மகத்தான அர்ஷின் அதிபதியான மகத்தான அல்லாஹ்விடம் உம்மை குணப்படுத்துமாறு கேட்கிறேன்.\n𝗣𝘂𝗿𝗽𝗼𝘀𝗲: நோயாளியை சந்திக்கும்போது ஓத வேண்டிய துஆ.\n𝗥𝗲𝗳𝗲𝗿𝗲𝗻𝗰𝗲𝘀: அபூ தாவூத் 3106, திர்மிதி 2083 — இப்னு அப்பாஸ் (ரலி) அறிவிப்பு\n════════════════════",
+    "dua_source": "அபூ தாவூத் 3106, திர்மிதி 2083",
+    "dua_link": "",
+    "caption_title": "முஸ்லிமின் ஐந்து கடமைகள் | 5 Rights of a Muslim #Islam #Hadith #Muslim",
+    "caption_youtube": "ஒரு முஸ்லிமாக நீங்கள் இந்த ஐந்து கடமைகளை நிறைவேற்றுகிறீர்களா?\n\nசஹீஹ் புகாரி ✦ 1240 ✦ Sahih Bukhari\n\n***Your brother is sick right now…***\n***Have you visited him yet?***\n***This Hadith will make you reflect…***\n\n══════════ ✦ ══════════\n𝗟𝗜𝗚𝗛𝗧 𝗙𝗢𝗥 𝗟𝗜𝗙𝗘 ✨\nThe Messenger of Allahصلى الله عليه وسلمsaid:\n\"There are five rights of one Muslim upon another: responding to the salaam, visiting the sick, following the funeral, accepting the invitation, and saying Yarhamukallah to one who sneezes.\"\nNarrated by Abu Hurairah (RA)\n══════════ ✦ ══════════\n𝗧𝗛𝗘 𝗟𝗘𝗦𝗦𝗢𝗡 🌙\n• Every Muslim has a duty toward their fellow Muslim — not by choice, but by faith. • Visiting the sick is not a favour — it is a right they hold over you. • These five acts build a community of mercy, warmth, and brotherhood.\n📝 Save this reminder.\n══════════ ✦ ══════════\n𝗦𝗣𝗥𝗘𝗔𝗗 𝗧𝗛𝗘 𝗟𝗜𝗚𝗛𝗧 💫\nShare this in your WhatsApp Status 📲\nSend this to your family WhatsApp group 🤍\nRepost this in your feed 🤍\n#IslamicReminder #Hadith #SahihBukhari #MuslimRights #VisitTheSick #IslamicDuty #ProphetMuhammad #Sunnah #IslamicQuotes #TamilMuslim #TamilIslam #IslamTamil #MuslimBrotherhood #Ummah #DailyHadith #IslamicContent #FridayReminder #QuranAndSunnah #NobiMozhi #IslamicShorts",
+    "caption_instagram": "ஒரு முஸ்லிமாக நீங்கள் இந்த ஐந்து கடமைகளை நிறைவேற்றுகிறீர்களா?\n\nசஹீஹ் புகாரி ✦ 1240 ✦ Sahih Bukhari\n\n***Your brother is sick right now…***\n***Have you visited him yet?***\n***This Hadith will make you reflect…***\n\n══════════ ✦ ══════════\n𝗟𝗜𝗚𝗛𝗧 𝗙𝗢𝗥 𝗟𝗜𝗙𝗘 ✨\nThe Messenger of Allahصلى الله عليه وسلمsaid:\n\"There are five rights of one Muslim upon another: responding to the salaam, visiting the sick, following the funeral, accepting the invitation, and saying Yarhamukallah to one who sneezes.\"\nNarrated by Abu Hurairah (RA)\n══════════ ✦ ══════════\n𝗧𝗛𝗘 𝗟𝗘𝗦𝗦𝗢𝗡 🌙\n• Every Muslim has a duty toward their fellow Muslim — not by choice, but by faith. • Visiting the sick is not a favour — it is a right they hold over you. • These five acts build a community of mercy, warmth, and brotherhood.\n📝 Save this reminder.\n══════════ ✦ ══════════\n𝗦𝗣𝗥𝗘𝗔𝗗 𝗧𝗛𝗘 𝗟𝗜𝗚𝗛𝗧 💫\nShare this in your WhatsApp Status 📲\nSend this to your family WhatsApp group 🤍\nRepost this in your feed 🤍\n#TamilIslam #IslamicReminder #Hadith #MuslimRights #NobiMozhi",
+    "hadith_tamil_2": null,
+    "primary_ref_2": null,
+    "duplicate_refs_2": null,
+    "hook_quiz_verified": true
+  },
+  "thumbnailData": {
+    "thumbnail_prompt": "Cinematic 9:16 vertical portrait (1080×1920px), 4K quality. A lone robed male figure in ancient Islamic-era attire sits beside a low wooden bed inside a dim stone-walled room, head bowed gently downward in a posture of quiet care and concern, face naturally turned away from camera and softly shadowed — never clearly depicted. The room is lit by a single flickering oil lamp on the floor casting warm amber and deep ochre pools of light across rough stone walls, with faint volumetric light rays drifting through a narrow arched window in the background. Dust particles float gently in the warm air. The mood is deeply soulful, heavy with compassion and unspoken weight — the silence of a sickroom at night. Background features the dark silhouette of an ancient mosque minaret faintly visible through the arched window against a deep indigo sky. Color palette: warm amber, burnt sienna, deep brown, dark ochre. No text, no calligraphy, no numbers, no modern objects anywhere in the image. Composition: subject fills the lower two-thirds of the frame, dramatic negative space above filled with the atmospheric dim room and distant minaret silhouette.",
+    "thumbnail_text": {
+      "line1": "உனக்கு இந்த",
+      "line2": "கடமை தெரியுமா?"
+    }
+  },
+  "collages": [
+    {
+      "id": 1,
+      "label": "Collage 1 — 3×4 Grid (Panels 1–12)",
+      "prompt": "Panel 1: Prophetic-era Islamic cinematic art — contemplative lone robed figure seated cross-legged on a stone ledge, chin resting on hand in deep thought, dramatic golden hour rim light casting long amber shadows across ancient mud-brick courtyard, dust particles floating in volumetric light rays, warm burnt orange tones, soft-focused face turned slightly away, vertical 9:16 panel, 4K hyperrealistic, no text, no calligraphy | Panel 2: Two Muslim men in modest white and earth-toned robes greeting each other with a warm handshake in an open desert courtyard, golden backlight silhouetting their joined hands at center frame, motion-blurred faces, long shadows stretching across sandy ground, palm trees flanking the background, volumetric amber light rays, atmospheric dust haze, cinematic warm orange-gold color grading, vertical 9:16, 4K masterpiece | Panel 3: Split-composition panel — left half shows two robed figures mid-greeting, right half shows one figure walking away down a dusty palm-lined road at golden hour, deep amber gradient sky, both faces depth-of-field soft-focused, dramatic backlight silhouette, dust particles swirling, cinematic color grading, vertical 9:16 panel, 4K hyperrealistic, no text | Panel 4: Wide-angle view of a robed figure standing at a desert crossroads looking toward a distant ancient Islamic city skyline with domes and minarets glowing orange at sunset, camel resting nearby, vivid cloudscape in deep amber and burnt orange, volumetric light rays breaking through clouds, dust settling on the ground, contemplative mood, face hidden beneath turban shadow, vertical 9:16, 4K cinematic | Panel 5: Warm family scene — silhouette of a man, woman, and two children standing at a low stone wall watching a blazing golden sunset over desert dunes, abstract warm amber and orange light spreading across the frame, no individual features distinguishable, atmospheric haze, volumetric rays of light, deep rich shadows, cinematic color grading, vertical 9:16, 4K masterpiece quality | Panel 6: Intimate close-up of two pairs of weathered hands exchanging a small cluster of dates on a woven cloth, warm candlelight from an oil lamp casting golden pools of light across rough-textured hands and fabric, bokeh background showing dim stone alcove, dust particles in air, ultra-fine skin texture detail, dramatic chiaroscuro lighting, vertical 9:16, 4K hyperrealistic, no text | Panel 7: Scholar with long modest robe and white turban leaning over a low wooden writing table in a stone alcove, oil lamp burning at his side casting dramatic warm golden light and deep amber shadows across the stone wall, soft-focused face partially hidden under turban brim, parchment and inkwell visible, volumetric candlelight glow, dust particles, vertical 9:16, 4K cinematic masterpiece | Panel 8: Wide panoramic mosque scene at sunset — grand ancient mosque with tall minaret and smooth domed roof bathed in deep orange and burnt amber light, flock of birds in silhouette against vivid crimson-gold sky, stone courtyard in foreground with lone robed figure in duʿā posture, dramatic volumetric cloud light, rich color grading, vertical 9:16, 4K hyperrealistic | Panel 9: Intimate scene of hands raised in duʿā — close-up of weathered open palms lifted toward a divine warm golden light source above, rays of light streaming down between the hands, prayer beads draped loosely over one wrist, deep amber and burnt orange tones, atmospheric haze, dust particles catching the light, blurred stone background, vertical 9:16, 4K ultra-fine texture, no text | Panel 10: Night prayer scene — lone robed figure in full prostration on a woven mat in an open desert clearing, breathtaking Milky Way starfield above in deep midnight blue, crescent moon low on the horizon, oil lamp glowing softly nearby casting warm amber circle around the figure, atmospheric mist, cinematic contrast between deep blue sky and warm golden ground light, vertical 9:16, 4K masterpiece | Panel 11: Contemplative scholar seated under a wide stone arch in deep golden hour light, hands raised in duʿā with soft divine rays falling across open palms, modest earth-toned robes with fine textile detail, face turned upward in soft focus, palm trees visible through arch opening, dust particles floating in amber air, volumetric light rays, dramatic rim lighting, vertical 9:16, 4K cinematic | Panel 12: Triumphant golden hour wide shot — two robed figures walking side by side on a dusty road between tall palm trees toward a glowing amber desert horizon, long shadows behind them, vivid warm sky in burnt orange and deep gold, atmospheric dust haze, birds in distant sky, cinematic color grading, faces depth-of-field soft-focused, volumetric rays of fading sunlight, vertical 9:16, 4K hyperrealistic masterpiece"
+    },
+    {
+      "id": 2,
+      "label": "Collage 2 — 3×4 Grid (Panels 1–12)",
+      "prompt": "Panel 1: Contemplative robed scholar seated alone on worn stone steps of an ancient mud-brick madrasa, head slightly bowed in thought, dramatic warm side-lighting from low golden sun casting deep amber shadows across carved stone walls, dust motes floating in volumetric rays, face soft-focused beneath draped white cloth, vertical 9:16, 4K cinematic masterpiece, no text, no calligraphy | Panel 2: Group of five robed men walking together on a dusty desert road toward an ancient walled city at golden hour, diverse modest robes in cream, brown, and deep ochre tones, long expressive shadows behind them, palm groves flanking the path, vivid amber and crimson sunset sky, faces naturally motion-blurred from movement, atmospheric haze, vertical 9:16, 4K hyperrealistic | Panel 3: A sick man lying on a simple woven mat inside a stone-walled room lit by a single oil lamp, a second robed visitor kneeling beside him with hands gently placed in a gesture of care, warm candlelight pooling across both figures, deep shadows on rough stone walls, both faces soft-focused, ultra-fine textile and stone texture, vertical 9:16, 4K cinematic, no text | Panel 4: Solemn procession scene — a group of robed men walking solemnly in golden afternoon light along a palm-lined stone path, long shadows, warm amber tones with atmospheric dust, modest attire in white and cream, faces partially hidden by turbans and depth of field, cinematic color grading, volumetric light rays through palm fronds, vertical 9:16, 4K masterpiece | Panel 5: Warm communal meal scene — men seated in a semicircle on the ground around a wide cloth spread with simple food, oil lamps glowing warmly at the edges, deep amber candlelight on turbaned faces all naturally motion-blurred, rich textures of clay bowls and woven fabric, dust particles in air, intimate warm mood, vertical 9:16, 4K hyperrealistic | Panel 6: Close-up of two pairs of hands — one pair raising open palms in duʿā, the other gently touching the wrist in a gesture of solidarity, warm divine light rays falling from above between the raised hands, prayer beads draped over one wrist, deep amber and burnt gold tones, stone floor with fine texture below, atmospheric haze, vertical 9:16, 4K ultra-detail, no text | Panel 7: Majestic ancient mosque panorama at deep golden dusk — two tall minarets and a grand central dome silhouetted against a vivid orange and crimson sky, a solitary robed figure with arms raised in duʿā in the foreground courtyard, long shadow cast before him, flock of birds ascending from minaret tops, volumetric light, vertical 9:16, 4K cinematic | Panel 8: Intimate night scene — scholar sitting in a small stone room, single oil lamp burning, hands open in duʿā toward the lamp light, deep midnight blue visible through a small arched window showing starfield, warm amber candlelight illuminating hands and robe in chiaroscuro, face soft-focused upward, vertical 9:16, 4K hyperrealistic masterpiece | Panel 9: Dramatic wide desert night scene — lone robed figure standing on a dune ridge with arms raised in duʿā toward a vast Milky Way sky in deep midnight blue and indigo, warm oil lamp glow at feet, stars reflected faintly on the dune surface, atmospheric mist, distant palm tree silhouettes, cinematic contrast of warm amber ground and deep blue sky, vertical 9:16, 4K masterpiece | Panel 10: Contemplative figure seated under a carved stone archway at twilight, profile visible in rim light, chin slightly lifted as if pondering, warm amber light from an unseen oil lamp source, shadows falling dramatically across the stone carving detail, dust particles in air, deep rich amber shadows, vertical 9:16, 4K cinematic, face depth-of-field soft, no text | Panel 11: Upward-angle close-up of weathered hands in open duʿā position with warm divine golden light rays streaming between the palms from above, misbaha prayer beads draped over the wrists, fine skin texture, deep amber glow, dust particles catching the light, abstract stone ceiling in soft bokeh background, vertical 9:16, 4K ultra-fine detail, hyperrealistic | Panel 12: Sweeping golden hour family silhouette — a family of four standing on a low stone wall overlooking a glowing desert valley with distant ancient city domes and minarets, brilliant amber and burnt orange light spreading across the entire frame, abstract warm rays radiating outward, atmospheric haze, no distinguishable features, cinematic color grading, deep rich shadows below, vivid sky above, vertical 9:16, 4K masterpiece"
+    }
+  ]
+}      "format": "standard",
       "ruleChange": false,
       "date": "28/04/2026"
     },
