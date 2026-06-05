@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "exportedAt": "2026-06-04T17:36:37.554Z",
+  "exportedAt": "2026-05-30T19:24:49.000Z",
   "trackerRows": [
-    {
-      "id": 1780594586850,
-      "primaryRef": "Ibn Majah 224",
-      "duplicateRefs": "",
-      "usedPart": "Seeking knowledge is an obligation upon every Muslim",
-      "partialUse": false,
-      "simplified": false,
-      "category": "📚 அறிவு",
-      "format": "hook_quiz",
-      "ruleChange": false,
-      "date": "04/06/2026"
-    },
     {
       "id": 1779578723730,
       "primaryRef": "Bukhari 6314",
@@ -47,85 +35,6 @@
       "simplified": false,
       "category": "",
       "format": "standard",
-      "ruleChange": false,
-      "date": "28/04/2026"
-    },
-    {
-      "id": 4,
-      "primaryRef": "Bukhari 85",
-      "duplicateRefs": "Muslim 157",
-      "usedPart": "Harj Increase",
-      "partialUse": false,
-      "simplified": false,
-      "category": "",
-      "format": "standard",
-      "ruleChange": false,
-      "date": "28/04/2026"
-    }
-  ],
-  "duaRows": [
-    {
-      "id": 1779578723732,
-      "arabicKey": "اللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَ",
-      "source": "அபூ தாவூத் 5045 — நபி ﷺ தமது வலது கையை கன்னத்தின் கீழே வைத்து படுக்கும்போது இந்த துஆவை மூன்று முறை ஓதினார்கள்.",
-      "theme": "Sleeping on right hand under cheek, bedtime supplication",
-      "date": "24/05/2026"
-    }
-  ],
-  "hookQuizRows": [
-    {
-      "id": 1780594586852,
-      "topic": "பொது",
-      "question": "நபி ﷺ தஹஜ்ஜுத் தொழுகையில் சில நேரங்களில் எத்தனை ரக்அத்கள் தொழுவார்கள்...",
-      "date": "04/06/2026"
-    },
-    {
-      "id": 1748215800000,
-      "topic": "இஸ்ரா மிஃராஜ்",
-      "question": "இஸ்ரா மிஃராஜ் பயணத்தில் நபி ﷺ மூசா (அலை) அவர்களை எந்த வானத்தில் சந்தித்தார்கள்?",
-      "optionA": "முதல் வானம்",
-      "optionB": "7 வது வானம்",
-      "correctOption": "B",
-      "source": "Sahih al-Bukhari 7517",
-      "date": "25/05/2026"
-    }
-  ],
-  "pickHistory": [
-    {
-      "topic": "அறிவு தேடுவது ஒவ்வொரு முஸ்லிமுக்கும் கடமை",
-      "category": "📚 அறிவு",
-      "format": "hook_quiz",
-      "date": "04/06/2026"
-    }
-  ],
-  "lastResult": {
-    "hadith_tamil": "நபி (ﷺ) அவர்கள் கூறினார்கள்: \"அறிவு தேடுவது ஒவ்வொரு முஸ்லிமுக்கும் கடமையாகும்.\"\n\nஅறிவிப்பாளர்: அனஸ் இப்னு மாலிக் (ரலி) அவர்கள்",
-    "primary_ref": "இப்னு மாஜா : 224",
-    "primary_ref_en": "Ibn Majah 224",
-    "duplicate_refs": "",
-    "duplicate_refs_en": "",
-    "used_part": "Seeking knowledge is an obligation upon every Muslim",
-    "partial_use": false,
-    "simplified": false,
-    "hook_quiz_text": "🎯 இஸ்லாமிய சேலஞ்ச்\n\nநபி ﷺ தஹஜ்ஜுத் தொழுகையில் சில நேரங்களில் எத்தனை ரக்அத்கள் தொழுவார்கள்...\n\nA) 11 ரக்அத்\nB) 13 ரக்அத்\n\n💬 உங்கள் பதிலை கமெண்டில் சொல்லுங்கள்!",
-    "hook_correct_option": "B",
-    "hook_quiz_source": "சஹீஹ் புகாரி : 1138",
-    "hook_quiz_source_en": "Bukhari 1138",
-    "quiz_text": null,
-    "correct_option": null,
-    "dua_text": null,
-    "dua_source": null,
-    "dua_link": null,
-    "caption_title": null,
-    "caption_youtube": null,
-    "caption_instagram": null,
-    "hadith_tamil_2": null,
-    "primary_ref_2": null,
-    "duplicate_refs_2": null,
-    "hook_quiz_verified": true
-  },
-  "thumbnailData": null
-}      "format": "standard",
       "ruleChange": false,
       "date": "28/04/2026"
     },
